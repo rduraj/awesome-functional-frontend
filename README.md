@@ -15,6 +15,7 @@
 ## Articles
 ### Basics
 - [Functional JS](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
+- [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
 - [Functional TypeScript](https://blogs.halodoc.io/functional-typescript/)
 - [What is Functional Programming](https://github.com/enricopolanski/functional-programming)
 - [Functional Programming - Learning path](https://github.com/imteekay/functional-programming-learning-path)
