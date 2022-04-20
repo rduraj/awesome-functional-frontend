@@ -26,6 +26,7 @@
 - [Practical Guide to fp-ts](https://rlee.dev/series/practical-guide-to-fp-ts)
 - [Type-safe routing in React with `fp-ts-routing`](https://oliverjash-me.vercel.app/2022/type-safe-routing-in-react-with-fp-ts-routing-part-1)
 - [fp-ts recipies](https://grossbart.github.io/fp-ts-recipes/)
+- [TypeScript + fp-ts: ReaderTaskEither and React](https://andywhite.xyz/posts/2021-01-28-rte-react/)
 #### Patterns, architecture and algebraic structures
 - [Exploring Folds: A Powerful Pattern Of Functional Programming](https://medium.com/@zaid.naom/exploring-folds-a-powerful-pattern-of-functional-programming-3036974205c8)
 - [The Algebraic Structure of Functions, illustrated using React components](https://jrsinclair.com/articles/2020/algebraic-structure-of-functions-illustrated-with-react-components/)
