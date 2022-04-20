@@ -40,6 +40,7 @@
 - [Scott Wlaschin - Talk Session: Domain Modeling Made Functional](https://www.youtube.com/watch?v=PLFl95c-IiU)
 - [functional programming 101 series](https://www.youtube.com/watch?v=ci_rKKvvkJo&list=PLEwNZN34BR6IX2zE3h-c4iYCLvR-UkoNV)
 - [A Real World Example of Functional Programming with fp-ts - Frederick Fogerty](https://www.youtube.com/watch?v=-U9HQembktY)
+- [TypeScript & FP: an introduction - Giovanni Gonzaga](https://www.youtube.com/watch?v=1LCqHnaJJtY)
 
 ## Books
 - [The mostly adequate guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
